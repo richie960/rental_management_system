@@ -4,7 +4,7 @@ date_default_timezone_set('Africa/Nairobi');
 $processrequestUrl = 'https://api.safaricom.co.ke/mpesa/stkpush/v1/processrequest';
 
 $callbackurl = 'https://kabaritacoltd.000webhostapp.com/kabarita/callback.php';
-$passkey = "3da26f11a8f1d70281011645bce7356644238a81013daa9a58a2bd2b30e6cfd1";
+$passkey = "";
 $BusinessShortCode = '4118403';
 $Timestamp = date('YmdHis');
 
