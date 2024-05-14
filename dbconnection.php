@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'id21132835_root');
-define('DB_PASSWORD', 'Kabarita@1');
-define('DB_NAME', 'id21132835_mpesa');
+define('DB_SERVER', '');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
+define('DB_NAME', '');
 try {
   $db = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
   if (!$db) {
