@@ -23,10 +23,10 @@ while ($row = mysqli_fetch_assoc($pendingMessagesResult)) {
     $managerMessage = " Hello Manager, confirm payment for House Number: $houseNumber. Tenant: $firstName. Total Amount: $totalAmount. Latest Mpesa Receipt: $latestMpesaReceipt.";
 
     // Parameters for sending SMS to the manager
-    $managerMobile = '254722295457';  // Replace with the actual manager's phone number
-    $partnerID = '8854';  // Replace with your SMS provider's partner ID
-    $apikey = '70efa65617bcc559666d74e884c3abb6';  // Replace with your SMS provider's API key
-    $shortcode = 'Savvy_sms';  // Replace with your SMS provider's shortcode
+    $managerMobile = '';  // Replace with the actual manager's phone number
+    $partnerID = '';  // Replace with your SMS provider's partner ID
+    $apikey = '';  // Replace with your SMS provider's API key
+    $shortcode = '';  // Replace with your SMS provider's shortcode
 
     // Construct the URL with parameters for sending SMS
     $managerUrl = 'https://sms.savvybulksms.com/api/services/sendsms';
