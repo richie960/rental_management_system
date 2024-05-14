@@ -1,0 +1,1050 @@
+Transaction ID: RJ60PBHR1Y
+Phone Number: 254743674300
+House Number: A15
+Amount: 0
+Mpesa Receipt Number: RJ60PBHR1Y
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ64Q57042
+Phone Number: 254743094019
+House Number: D6
+Amount: 0
+Mpesa Receipt Number: RJ64Q57042
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ66QD5IE0
+Phone Number: 254701956171
+House Number: A10
+Amount: 0
+Mpesa Receipt Number: RJ66QD5IE0
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ61QG1SQT
+Phone Number: 254701956171
+House Number: A11
+Amount: 0
+Mpesa Receipt Number: RJ61QG1SQT
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ70SHO8O4
+Phone Number: 254728877283
+House Number: A3
+Amount: 0
+Mpesa Receipt Number: RJ70SHO8O4
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ81VYBKKZ
+Phone Number: 254717432373
+House Number: D2
+Amount: 0
+Mpesa Receipt Number: RJ81VYBKKZ
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ9718PSE1
+Phone Number: 254721401042
+House Number: A5
+Amount: 0
+Mpesa Receipt Number: RJ9718PSE1
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ981GK26S
+Phone Number: 254710373706
+House Number: E2
+Amount: 0
+Mpesa Receipt Number: RJ981GK26S
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ9326JFGZ
+Phone Number: 254700883181
+House Number: A2
+Amount: 0
+Mpesa Receipt Number: RJ9326JFGZ
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJA839FNKI
+Phone Number: 254702707708
+House Number: C9
+Amount: 21000
+Mpesa Receipt Number: RJA839FNKI
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJA53A9WK1
+Phone Number: 254702707708
+House Number: C9
+Amount: 0
+Mpesa Receipt Number: RJA53A9WK1
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJB26SN1NQ
+Phone Number: 254740637705
+House Number: D1
+Amount: 0
+Mpesa Receipt Number: RJB26SN1NQ
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJK0ZBHGVU
+Phone Number: 254722163623
+House Number: C2
+Amount: 0
+Mpesa Receipt Number: RJK0ZBHGVU
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJV6ZXW9MU
+Phone Number: 254724485255
+House Number: B9
+Amount: -1500
+Mpesa Receipt Number: RJV6ZXW9MU
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK183HNNYI
+Phone Number: 254720704801
+House Number: E7
+Amount: 10000.00
+Mpesa Receipt Number: RK183HNNYI
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK1343MZHR
+Phone Number: 254717432373
+House Number: D2
+Amount: 7500.00
+Mpesa Receipt Number: RK1343MZHR
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK257XRONV
+Phone Number: 254728877283
+House Number: A3
+Amount: 5000.00
+Mpesa Receipt Number: RK257XRONV
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK30ANU0B6
+Phone Number: 254717680852
+House Number: B2
+Amount: 6500.00
+Mpesa Receipt Number: RK30ANU0B6
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK66L4Q7LW
+Phone Number: 254721401042
+House Number: A5
+Amount: 5000.00
+Mpesa Receipt Number: RK66L4Q7LW
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK74N8XDJ8
+Phone Number: 254112962766
+House Number: B4
+Amount: 7000.00
+Mpesa Receipt Number: RK74N8XDJ8
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK76PCODWK
+Phone Number: 254740637705
+House Number: D1
+Amount: 5000.00
+Mpesa Receipt Number: RK76PCODWK
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK87RD6U79
+Phone Number: 254743094019
+House Number: D6
+Amount: 5000.00
+Mpesa Receipt Number: RK87RD6U79
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK91WBZDTV
+Phone Number: 254797600083
+House Number: A4
+Amount: 4000.00
+Mpesa Receipt Number: RK91WBZDTV
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RK92WCJ86K
+Phone Number: 254702707708
+House Number: C9
+Amount: 7000.00
+Mpesa Receipt Number: RK92WCJ86K
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKA7WXQD71
+Phone Number: 254700883181
+House Number: A2
+Amount: 5000.00
+Mpesa Receipt Number: RKA7WXQD71
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKA6Y3X150
+Phone Number: 254746465349
+House Number: immah
+Amount: 110
+Mpesa Receipt Number: RKA6Y3X150
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKA9YU0PKP
+Phone Number: 254724485255
+House Number: B9
+Amount: 7500.00
+Mpesa Receipt Number: RKA9YU0PKP
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKA7Z4AFO9
+Phone Number: 254797874345
+House Number: A1
+Amount: 2500.00
+Mpesa Receipt Number: RKA7Z4AFO9
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKB52CUM8B
+Phone Number: 254700229311
+House Number: A9
+Amount: 3500
+Mpesa Receipt Number: RKB52CUM8B
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKE9CGPM13
+Phone Number: 254708304529
+House Number: A6
+Amount: 4500
+Mpesa Receipt Number: RKE9CGPM13
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKF3F82RY7
+Phone Number: 254701956171
+House Number: A11
+Amount: 3500.00
+Mpesa Receipt Number: RKF3F82RY7
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG9IIAVUR
+Phone Number: 254746465349
+House Number: Ax
+Amount: 2.00
+Mpesa Receipt Number: RKG9IIAVUR
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG5IIUI8N
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RKG5IIUI8N
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG0IJ3Z96
+Phone Number: 254746465349
+House Number: Ax
+Amount: 2.00
+Mpesa Receipt Number: RKG0IJ3Z96
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG1IUQPX9
+Phone Number: 254701956171
+House Number: A10
+Amount: 3500.00
+Mpesa Receipt Number: RKG1IUQPX9
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG3JF4HY9
+Phone Number: 254713904724
+House Number: A7
+Amount: 2500.00
+Mpesa Receipt Number: RKG3JF4HY9
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKG8JTTZH4
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RKG8JTTZH4
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKH5K1RGBP
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RKH5K1RGBP
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKK5UCXDYX
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1
+Mpesa Receipt Number: RKK5UCXDYX
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS4MZS4CI
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKS4MZS4CI
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS5N2GW0R
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKS5N2GW0R
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS7N4KVYF
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKS7N4KVYF
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS0N6IMHY
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKS0N6IMHY
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS7N6KKD5
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKS7N6KKD5
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKS0N6M8UG
+Phone Number: 254746465349
+House Number: ax
+Amount: 0
+Mpesa Receipt Number: RKS0N6M8UG
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKT1O12BGH
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKT1O12BGH
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKT4OGW4R6
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1
+Mpesa Receipt Number: RKT4OGW4R6
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RKT4OGW4R6
+Phone Number: 2547 ***** 349
+House Number: KABARITA GENERAL AGENCY 1
+Amount: 1.00
+Mpesa Receipt Number: RKT4OGW4R6
+2023-11-29 17:12:13
+------------kabarita general agency----------------
+Transaction ID: RJ53M5P2GD
+Phone Number: 2547 ***** 349
+House Number: B1
+Amount: 1.00
+Mpesa Receipt Number: RJ53M5P2GD
+2023-10-05 08:45:02
+------------kabarita general agency----------------
+Transaction ID: RJ52M6FU86
+Phone Number: 2547 ***** 349
+House Number: B1
+Amount: 1.00
+Mpesa Receipt Number: RJ52M6FU86
+2023-10-05 08:52:03
+------------kabarita general agency----------------
+Transaction ID: RJ60PBHR1Y
+Phone Number: 2547 ***** 496
+House Number: B15
+Amount: 3000.00
+Mpesa Receipt Number: RJ60PBHR1Y
+2023-10-06 07:20:02
+------------kabarita general agency----------------
+Transaction ID: RJ64Q57042
+Phone Number: 2547 ***** 019
+House Number: D6
+Amount: 5000.00
+Mpesa Receipt Number: RJ64Q57042
+2023-10-06 11:42:02
+------------kabarita general agency----------------
+Transaction ID: RJ66QD5IE0
+Phone Number: 2547 ***** 171
+House Number: A10
+Amount: 3500.00
+Mpesa Receipt Number: RJ66QD5IE0
+2023-10-06 12:51:02
+------------kabarita general agency----------------
+Transaction ID: RJ61QG1SQT
+Phone Number: 2547 ***** 171
+House Number: A11
+Amount: 3500.00
+Mpesa Receipt Number: RJ61QG1SQT
+2023-10-06 13:16:02
+------------kabarita general agency----------------
+Transaction ID: RJ70SHO8O4
+Phone Number: 2547 ***** 283
+House Number: A3
+Amount: 5000.00
+Mpesa Receipt Number: RJ70SHO8O4
+2023-10-07 05:38:02
+------------kabarita general agency----------------
+Transaction ID: RJ81VYBKKZ
+Phone Number: 2547 ***** 902
+House Number: D2
+Amount: 7500.00
+Mpesa Receipt Number: RJ81VYBKKZ
+2023-10-08 05:45:02
+------------kabarita general agency----------------
+Transaction ID: RKT9Q23GYX
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1
+Mpesa Receipt Number: RKT9Q23GYX
+2023-11-29 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RKT9Q23GYX
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RKT9Q23GYX
+2023-11-29 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RKT7Q5VPLJ
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RKT7Q5VPLJ
+2023-11-29 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RKT7Q5VPLJ
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RKT7Q5VPLJ
+2023-11-29 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RKU1SUQZMF
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RKU1SUQZMF
+2023-11-30 16:12:03
+------------kabarita general agency----------------
+Transaction ID: RL19VLPHRD
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL19VLPHRD
+2023-12-01 12:12:02
+------------kabarita general agency----------------
+Transaction ID: RL19VLPHRD
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL19VLPHRD
+2023-12-01 12:12:02
+------------kabarita general agency----------------
+Transaction ID: RL10W1C8DE
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL10W1C8DE
+2023-12-01 14:12:03
+------------kabarita general agency----------------
+Transaction ID: RL10W1C8DE
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL10W1C8DE
+2023-12-01 14:12:03
+------------kabarita general agency----------------
+Transaction ID: RL25ZK3YGR
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL25ZK3YGR
+2023-12-02 14:12:02
+------------kabarita general agency----------------
+Transaction ID: RL25ZK3YGR
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RL25ZK3YGR
+2023-12-02 14:12:02
+------------kabarita general agency----------------
+Transaction ID: RL2910ACQZ
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL2910ACQZ
+2023-12-02 16:12:02
+------------kabarita general agency----------------
+Transaction ID: RL2910ACQZ
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL2910ACQZ
+2023-12-02 16:12:02
+------------kabarita general agency----------------
+Transaction ID: RL261KZT4C
+Phone Number: 254713904724
+House Number: A7
+Amount: 2500.00
+Mpesa Receipt Number: RL261KZT4C
+2023-12-02 18:12:02
+------------kabarita general agency----------------
+Transaction ID: RL302MZGAU
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL302MZGAU
+2023-12-03 07:12:03
+------------kabarita general agency----------------
+Transaction ID: RL302MZGAU
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL302MZGAU
+2023-12-03 07:12:03
+------------kabarita general agency----------------
+Transaction ID: RL392O4QM1
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL392O4QM1
+2023-12-03 07:12:03
+------------kabarita general agency----------------
+Transaction ID: RL392O4QM1
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL392O4QM1
+2023-12-03 07:12:03
+------------kabarita general agency----------------
+Transaction ID: RL322OR69Y
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL322OR69Y
+2023-12-03 07:12:03
+------------kabarita general agency----------------
+Transaction ID: RL312PN8EJ
+Phone Number: 2547 ***** 019
+House Number: 5e
+Amount: 5000.00
+Mpesa Receipt Number: RL312PN8EJ
+2023-12-03 08:12:03
+------------kabarita general agency----------------
+Transaction ID: RL382U45CA
+Phone Number: 2547 ***** 215
+House Number: 6E
+Amount: 7000.00
+Mpesa Receipt Number: RL382U45CA
+2023-12-03 08:12:03
+------------kabarita general agency----------------
+Transaction ID: RL3950KGCV
+Phone Number: 254793001980
+House Number: 
+Amount: 10
+Mpesa Receipt Number: RL3950KGCV
+2023-12-03 19:12:02
+------------kabarita general agency----------------
+Transaction ID: RL3950KGCV
+Phone Number: 100125994
+House Number: Ax
+Amount: 10.00
+Mpesa Receipt Number: RL3950KGCV
+2023-12-03 19:12:02
+------------kabarita general agency----------------
+Transaction ID: RL445KMGM4
+Phone Number: 2547 ***** 623
+House Number: 2C
+Amount: 4000.00
+Mpesa Receipt Number: RL445KMGM4
+2023-12-04 06:12:03
+------------kabarita general agency----------------
+Transaction ID: RL486O9LBC
+Phone Number: 254728877283
+House Number: A3
+Amount: 5000.00
+Mpesa Receipt Number: RL486O9LBC
+2023-12-04 12:12:03
+------------kabarita general agency----------------
+Transaction ID: RL436QNQAH
+Phone Number: 254797600083
+House Number: A4
+Amount: 4000.00
+Mpesa Receipt Number: RL436QNQAH
+2023-12-04 12:12:03
+------------kabarita general agency----------------
+Transaction ID: RL437KLH67
+Phone Number: 254790540130
+House Number: 
+Amount: 10
+Mpesa Receipt Number: RL437KLH67
+2023-12-04 16:12:03
+------------kabarita general agency----------------
+Transaction ID: RL437KLH67
+Phone Number: 254793001980
+House Number: Ax
+Amount: 10.00
+Mpesa Receipt Number: RL437KLH67
+2023-12-04 16:12:03
+------------kabarita general agency----------------
+Transaction ID: RL418H9TQR
+Phone Number: 254708106246
+House Number: D7
+Amount: 6500.00
+Mpesa Receipt Number: RL418H9TQR
+2023-12-04 20:12:02
+------------kabarita general agency----------------
+Transaction ID: RL55AA7CYH
+Phone Number: 254743094019
+House Number: D6
+Amount: 5000.00
+Mpesa Receipt Number: RL55AA7CYH
+2023-12-05 13:12:03
+------------kabarita general agency----------------
+Transaction ID: RL61CZK7UH
+Phone Number: 254701956171
+House Number: A10
+Amount: 3500.00
+Mpesa Receipt Number: RL61CZK7UH
+2023-12-06 09:12:03
+------------kabarita general agency----------------
+Transaction ID: RL66DGK0SE
+Phone Number: 254793001980
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL66DGK0SE
+2023-12-06 11:12:03
+------------kabarita general agency----------------
+Transaction ID: RL66DGK0SE
+Phone Number: 254797319681
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL66DGK0SE
+2023-12-06 11:12:03
+------------kabarita general agency----------------
+Transaction ID: RL70H5JF9K
+Phone Number: 254720704801
+House Number: E7
+Amount: 10000.00
+Mpesa Receipt Number: RL70H5JF9K
+2023-12-07 12:12:03
+------------kabarita general agency----------------
+Transaction ID: RL83JRVADD
+Phone Number: 254717680852
+House Number: B2
+Amount: 4000.00
+Mpesa Receipt Number: RL83JRVADD
+2023-12-08 08:12:03
+------------kabarita general agency----------------
+Transaction ID: RL84JYC6E4
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL84JYC6E4
+2023-12-08 09:12:02
+------------kabarita general agency----------------
+Transaction ID: RL84JYC6E4
+Phone Number: 254793001980
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL84JYC6E4
+2023-12-08 09:12:02
+------------kabarita general agency----------------
+Transaction ID: RL83L2ZXIT
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL83L2ZXIT
+2023-12-08 14:12:02
+------------kabarita general agency----------------
+Transaction ID: RL83L2ZXIT
+Phone Number: 254793001980
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL83L2ZXIT
+2023-12-08 14:12:02
+------------kabarita general agency----------------
+Transaction ID: RL93NIOC83
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL93NIOC83
+2023-12-09 09:12:02
+------------kabarita general agency----------------
+Transaction ID: RL96PCL9IQ
+Phone Number: 254700229311
+House Number: A9
+Amount: 3500.00
+Mpesa Receipt Number: RL96PCL9IQ
+2023-12-09 17:12:02
+------------kabarita general agency----------------
+Transaction ID: RL94PJ4NT4
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RL94PJ4NT4
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL94PJ4NT4
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL94PJ4NT4
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL90PK6EY6
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL90PK6EY6
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL90PK6EY6
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL90PK6EY6
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL99PLD69Z
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL99PLD69Z
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL99PLD69Z
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL99PLD69Z
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL93PNC02B
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RL93PNC02B
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RL93PNC02B
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RL93PNC02B
+2023-12-09 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RLA9QOS7F9
+Phone Number: 254721401042
+House Number: A5
+Amount: 5000.00
+Mpesa Receipt Number: RLA9QOS7F9
+2023-12-10 08:12:03
+------------kabarita general agency----------------
+Transaction ID: RLA9QV2MV7
+Phone Number: 254717683329
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RLA9QV2MV7
+2023-12-10 09:12:02
+------------kabarita general agency----------------
+Transaction ID: RLA9QV2MV7
+Phone Number: 254717683329
+House Number: toza
+Amount: 1.00
+Mpesa Receipt Number: RLA9QV2MV7
+2023-12-10 09:12:02
+------------kabarita general agency----------------
+Transaction ID: RLA2RA5AVY
+Phone Number: 254743674300
+House Number: A15
+Amount: 3000.00
+Mpesa Receipt Number: RLA2RA5AVY
+2023-12-10 11:12:02
+------------kabarita general agency----------------
+Transaction ID: RLC4XD0G48
+Phone Number: 
+House Number: 
+Amount: 5
+Mpesa Receipt Number: RLC4XD0G48
+2023-12-12 13:12:03
+------------kabarita general agency----------------
+Transaction ID: RLC4XD0G48
+Phone Number: 254722163623
+House Number: C2
+Amount: 5.00
+Mpesa Receipt Number: RLC4XD0G48
+2023-12-12 13:12:03
+------------kabarita general agency----------------
+Transaction ID: RLC4XK8IP0
+Phone Number: 
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RLC4XK8IP0
+2023-12-12 14:12:03
+------------kabarita general agency----------------
+Transaction ID: RLC4XK8IP0
+Phone Number: 254748688016
+House Number: D5
+Amount: 1.00
+Mpesa Receipt Number: RLC4XK8IP0
+2023-12-12 14:12:03
+------------kabarita general agency----------------
+Transaction ID: RLD417GK00
+Phone Number: 254701956171
+House Number: A11
+Amount: 3500.00
+Mpesa Receipt Number: RLD417GK00
+2023-12-13 11:12:02
+------------kabarita general agency----------------
+Transaction ID: RLD41IMLH0
+Phone Number: 254700883181
+House Number: 
+Amount: 5000
+Mpesa Receipt Number: RLD41IMLH0
+2023-12-13 12:12:03
+------------kabarita general agency----------------
+Transaction ID: RLD41IMLH0
+Phone Number: 254700883181
+House Number: A2
+Amount: 5000.00
+Mpesa Receipt Number: RLD41IMLH0
+2023-12-13 12:12:03
+------------kabarita general agency----------------
+Transaction ID: RLD028SJ6W
+Phone Number: 254717432373
+House Number: D2
+Amount: 5000.00
+Mpesa Receipt Number: RLD028SJ6W
+2023-12-13 16:12:02
+------------kabarita general agency----------------
+Transaction ID: RLF379ZWHN
+Phone Number: 254746465349
+House Number: ax
+Amount: 1.00
+Mpesa Receipt Number: RLF379ZWHN
+2023-12-15 07:12:02
+------------kabarita general agency----------------
+Transaction ID: RLF298WNHS
+Phone Number: 254746465349
+House Number: 
+Amount: 1
+Mpesa Receipt Number: RLF298WNHS
+2023-12-15 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RLF298WNHS
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLF298WNHS
+2023-12-15 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RLG9AQB0Z7
+Phone Number: 2547 ***** 706
+House Number: 2E
+Amount: 8000.00
+Mpesa Receipt Number: RLG9AQB0Z7
+2023-12-16 08:12:02
+------------kabarita general agency----------------
+Transaction ID: RLH8E3N9RC
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLH8E3N9RC
+2023-12-17 08:12:02
+------------kabarita general agency----------------
+Transaction ID: RLH8E3N9RC
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLH8E3N9RC
+2023-12-17 08:12:02
+------------kabarita general agency----------------
+Transaction ID: RLH2FF4BZ2
+Phone Number: 254722163623
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLH2FF4BZ2
+2023-12-17 16:12:03
+------------kabarita general agency----------------
+Transaction ID: RLH2FF4BZ2
+Phone Number: 254722163623
+House Number: C2
+Amount: 4000.00
+Mpesa Receipt Number: RLH2FF4BZ2
+2023-12-17 16:12:03
+------------kabarita general agency----------------
+Transaction ID: RLH6FON4NW
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLH6FON4NW
+2023-12-17 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RLH6FON4NW
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLH6FON4NW
+2023-12-17 18:12:03
+------------kabarita general agency----------------
+Transaction ID: RLI4HVPPOM
+Phone Number: 254795924855
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLI4HVPPOM
+2023-12-18 12:33:03
+------------kabarita general agency----------------
+Transaction ID: RLI4HVPPOM
+Phone Number: 254795924855
+House Number: Harri
+Amount: 1.00
+Mpesa Receipt Number: RLI4HVPPOM
+2023-12-18 12:33:03
+------------kabarita general agency----------------
+Transaction ID: RLJ5MR2UOF
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLJ5MR2UOF
+2023-12-19 19:50:03
+------------kabarita general agency----------------
+Transaction ID: RLJ5MR2UOF
+Phone Number: 2547 ***** 349
+House Number: Ac
+Amount: 1.00
+Mpesa Receipt Number: RLJ5MR2UOF
+2023-12-19 19:50:03
+------------kabarita general agency----------------
+Transaction ID: RLJ5MRS06H
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLJ5MRS06H
+2023-12-19 19:54:02
+------------kabarita general agency----------------
+Transaction ID: RLJ5MRS06H
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLJ5MRS06H
+2023-12-19 19:54:02
+------------kabarita general agency----------------
+Transaction ID: RLK6OS9RYO
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLK6OS9RYO
+2023-12-20 14:04:02
+------------kabarita general agency----------------
+Transaction ID: RLK6OS9RYO
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLK6OS9RYO
+2023-12-20 14:04:02
+------------kabarita general agency----------------
+Transaction ID: RLL8RJLWWW
+Phone Number: 254748688016
+House Number: D5
+Amount: 7000.00
+Mpesa Receipt Number: RLL8RJLWWW
+2023-12-21 10:50:03
+------------kabarita general agency----------------
+Transaction ID: RLL6SYP0RW
+Phone Number: 254112894569
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLL6SYP0RW
+2023-12-21 18:00:04
+------------kabarita general agency----------------
+Transaction ID: RLL6SYP0RW
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLL6SYP0RW
+2023-12-21 18:00:04
+------------kabarita general agency----------------
+Transaction ID: RLM1VONP49
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLM1VONP49
+2023-12-22 14:18:02
+------------kabarita general agency----------------
+Transaction ID: RLM5VOT50L
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLM5VOT50L
+2023-12-22 14:20:03
+------------kabarita general agency----------------
+Transaction ID: RLM5VOT50L
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLM5VOT50L
+2023-12-22 14:20:03
+------------kabarita general agency----------------
+Transaction ID: RLM4VQ85AY
+Phone Number: 254746465349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLM4VQ85AY
+2023-12-22 14:32:03
+------------kabarita general agency----------------
+Transaction ID: RLM4VQ85AY
+Phone Number: 254746465349
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLM4VQ85AY
+2023-12-22 14:32:03
+------------kabarita general agency----------------
+Transaction ID: RLM6WGTD4W
+Phone Number: 2547 ***** 349
+House Number: Ax
+Amount: 1.00
+Mpesa Receipt Number: RLM6WGTD4W
+2023-12-22 17:56:02
+------------kabarita general agency----------------
+Transaction ID: RLN0ZDXGI0
+Phone Number: 2547 ***** 447
+House Number: B9
+Amount: 7500.00
+Mpesa Receipt Number: RLN0ZDXGI0
+2023-12-23 14:38:03
+------------kabarita general agency----------------
+Transaction ID: RLO15TGB4V
+Phone Number: 254700883181
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLO15TGB4V
+2023-12-24 23:40:02
+------------kabarita general agency----------------
+Transaction ID: RLO15TGB4V
+Phone Number: 254700883181
+House Number: A2
+Amount: 5000.00
+Mpesa Receipt Number: RLO15TGB4V
+2023-12-24 23:40:02
+------------kabarita general agency----------------
+Transaction ID: RLQ9A3NPSF
+Phone Number: 254702707708
+House Number: C9
+Amount: 7000.00
+Mpesa Receipt Number: RLQ9A3NPSF
+2023-12-26 14:54:03
+------------kabarita general agency----------------
+Transaction ID: RLS2H6EACS
+Phone Number: 254793613166
+House Number: 
+Amount: 
+Mpesa Receipt Number: RLS2H6EACS
+2023-12-28 20:36:02
+------------kabarita general agency----------------
+Transaction ID: RLS2H6EACS
+Phone Number: 254793613166
+House Number: Popie
+Amount: 1.00
+Mpesa Receipt Number: RLS2H6EACS
+2023-12-28 20:36:02
+------------kabarita general agency----------------
