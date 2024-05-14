@@ -6,9 +6,9 @@ include 'dbconnection.php';
 ob_start();
 
 // Parameters
-$partnerID = '8854';
-$apikey = '70efa65617bcc559666d74e884c3abb6';
-$shortcode = 'Savvy_sms';
+$partnerID = '';
+$apikey = '';
+$shortcode = '';
 
 // Query to get distinct house numbers with total amount (including both positive and negative amounts)
 $houseNumbersQuery = "SELECT DISTINCT HouseNumber FROM transactions";
