@@ -3,8 +3,8 @@
 require 'dbconnection.php';
 
 // Parameters
-$partnerID = '8854';
-$apikey = '70efa65617bcc559666d74e884c3abb6';
+$partnerID = '';
+$apikey = '';
 $shortcode = 'Savvy_sms';
 
 // Query to get distinct house numbers with status = 1 and twilosent = 0
