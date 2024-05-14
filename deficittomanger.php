@@ -63,10 +63,10 @@ while ($row = mysqli_fetch_assoc($distinctHouseNumbersResult)) {
         $caretakerMessage = "Please check House $houseNumber. Total Amount: $totalAmount. Payment needed: " . ($defaultDeposit - $totalAmount);
 
         // Parameters for sending SMS to the caretaker
-        $caretakerMobile = '254720217523';  // Replace with the actual caretaker's phone number
-        $partnerID = '8854';  // Replace with your SMS provider's partner ID
-        $apikey = '70efa65617bcc559666d74e884c3abb6';  // Replace with your SMS provider's API key
-        $shortcode = 'Savvy_sms';  // Replace with your SMS provider's shortcode
+        $caretakerMobile = '';  // Replace with the actual caretaker's phone number
+        $partnerID = '';  // Replace with your SMS provider's partner ID
+        $apikey = '';  // Replace with your SMS provider's API key
+        $shortcode = '';  // Replace with your SMS provider's shortcode
 
         // Construct the URL with parameters for sending SMS
         $caretakerUrl = 'https://sms.savvybulksms.com/api/services/sendsms';
